@@ -37,7 +37,7 @@ geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")</p>
 right, or on both side of the hyphens within the header row.</p>
   
 <!--Table-->
-
+ 
 | __Syntex__ | __Description__ | __Test Text__ |
 | ----- | ------ | ------ |
 | Header | Title | Here's this |
