@@ -18,7 +18,7 @@ f1(ω)=σ<sup>2</sup>/2π, ω∈[−π,π]</p>
 4. Fourth Item
   
 <!--unorderList-->
-- First Item
+- First Item 
 - Second Item
   - first sub-item
     - first sub-sub-item
